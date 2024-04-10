@@ -1,0 +1,106 @@
+
+
+body{
+  
+  color: black;
+  background-color: aqua;
+  padding: 75px 75px;
+  
+  
+  
+}
+.center{
+  
+  display: flex;
+  justify-content: space-between; 
+  text-align: center;
+  padding: 20px;
+  
+}
+
+img{
+  
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  
+  border: 7px solid blue;
+}
+
+.conf1{
+  
+  text-align: center;
+}
+
+.conf2 img{
+  
+  width: 500px;
+  height: 500px;
+  
+}
+.posicao1{
+  
+  
+  width: 500px;
+  height: 500px;
+  
+  
+  
+}
+.esp{
+  
+  text-align: center;
+  display: flex;
+  
+}
+button{
+  
+  width: 800px;
+  height: 50px
+  
+}
+.botao{
+  
+  width: 500px;
+  height: 50px;
+  font-family: arial;
+  color: chartreuse;
+  background: black;
+  border-radius: 18px;
+  border: 3px solid green;
+  
+  
+}
+
+.posicao2 img{
+  
+  border-radius: 0px;
+  border: 0px;
+  width: 970px;
+  height: 500px;
+  padding: 10px 10px;
+  
+  
+  
+}
+.quadrado{
+  
+  width: 700px;
+  height: 300px;
+  border-radius: 18px;
+  border: 3px solid green;
+  
+  
+  
+}
+.pc img{
+  
+  border-radius: 0px;
+  border: 0px;
+  width: 500px;
+  height: 300px;
+  
+  width: 500px;
+  height: 500px;
+  border-radius: 18px;
+  border: 5px solid bluvideo1}
